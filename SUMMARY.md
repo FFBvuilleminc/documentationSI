@@ -4,7 +4,7 @@
 
 ## Présentation
 
-* [Composition](presentation/composition.md)
+* [Description](presentation/description.md)
 * [Objectif](presentation/objectif.md)
 * [Périmètre](presentation/perimetre.md)
 
