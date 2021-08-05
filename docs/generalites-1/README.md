@@ -1,2 +1,0 @@
-# generalites-1
-

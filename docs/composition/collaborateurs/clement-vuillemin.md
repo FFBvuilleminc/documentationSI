@@ -1,2 +1,0 @@
-# Clément Vuillemin
-
