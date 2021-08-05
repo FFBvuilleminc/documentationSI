@@ -1,10 +1,22 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Introduction](docs/README.md)
-  * [Untitled](docs/untitled.md)
+* [Introduction](README.md)
 
-## Périmètre
+## Présentation
 
-* [Untitled](perimetre/untitled.md)
+* [Composition](presentation/composition.md)
+* [Objectif](presentation/objectif.md)
+* [Périmètre](presentation/perimetre.md)
+
+## Outils & Services
+
+* [Untitled](outils-and-services/untitled.md)
+
+## Matériels
+
+* [Untitled](materiels/untitled.md)
+
+## Prestations
+
+* [Untitled](prestations/untitled.md)
 
