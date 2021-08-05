@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](./)
 
 ## Généralités <a id="generalites-1"></a>
 
@@ -8,7 +8,7 @@
 
 ## Composition
 
-* [Collaborateurs](composition/collaborateurs/README.md)
+* [Collaborateurs](composition/collaborateurs/)
   * [Clément Vuillemin](composition/collaborateurs/clement-vuillemin.md)
 
 ## Rôle
