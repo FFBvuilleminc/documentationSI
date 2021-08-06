@@ -1,8 +1,6 @@
-# Introduction
+# Présentation
 
-## Présentation
-
-La FFB Nationale dispose d'un Service Informatique intégré composé de 8 collaborateurs.
+La FFB Nationale dispose d'un Service Informatique intégré composé de 8 collaborateurs situés dans les locaux rue la Pérouse à Paris.
 
 ## Objectifs
 
