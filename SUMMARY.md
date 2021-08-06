@@ -2,12 +2,6 @@
 
 * [Introduction](README.md)
 
-## Présentation
-
-* [Description](presentation/description.md)
-* [Objectifs & Missions](presentation/objectif.md)
-* [Périmètre](presentation/perimetre.md)
-
 ## Matériels
 
 * [Untitled](materiels/untitled.md)
