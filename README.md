@@ -8,7 +8,7 @@ Le **SI** propose une panoplie de services aux collaborateurs des entités du r�
 Ces services sont détaillés dans la section**`CATALOGUE DE SERVICES`**.
 {% endhint %}
 
-## Objectifs
+## Objectifs du service
 
 Le Service Informatique Fédération Française du Bâtiment a comme objectifs principaux :
 
@@ -18,9 +18,7 @@ Le Service Informatique Fédération Française du Bâtiment a comme objectifs p
 * La gestion, la distribution et la mise à jour des logiciels nécessaires à l'activité de la FFB.
 * La formation, l'assistance et le support auprès des collaborateurs.
 
-## Périmètre
-
-### Eligibilité des entités
+## Périmètre d'intervention
 
 Le **SI** propose ses services aux collaborateurs permanents des entités membres \(ou proches\) du réseau FFB.
 
@@ -36,15 +34,71 @@ La liste exhaustive de ces entités est :
 * Les chambres syndicales de la FR Grand-Paris \(**CS**\)
 * L'ESJDB, SI St Paul, e-btp, SEBTP
 
-### Type d'accompagnement
+## Types de gestion
 
-S'il est l'interlocuteur unique pour l'ensemble des besoins informatique des collaborateurs de la **FFB**, le SI ne se substitue pas au prestataire des autres entités \(hors locataires de la **FFB**\).
+### La FFB et ses structures fiscalisées
 
-| Entité | Type d'interlocuteur | Type de gestion |
-| :--- | :--- | :--- |
-| **FFB** et ses structures fiscalisées | Interlocuteur unique | Gestion à 100% imposée |
-| **U/S** locataires de la **FFB** | Interlocuteur principale | Gestion à 100% proposée |
-| **U/S** et **CS** non locataires de la **FFB** | Interlocuteur secondaire | Gestion conjointe avec le prestataire |
-| **FD** et **FR** | Interlocuteur secondaire | Gestion conjointe avec le prestataire |
-| ESJDB, SI St Paul, e-btp, SEBTP | Interlocuteur principale | Gestion à 100% proposée |
+Le **SI** gère l'ensemble des besoins informatique des collaborateurs de la **FFB** et de ses structures fiscalisées.
+
+{% hint style="success" %}
+Le **SI** est l'interlocuteur unique pour ces entités.
+{% endhint %}
+
+### Les Fédérations Régionales et Départementales
+
+Les **FR** et **FD** sont autonome au niveau de leur informatique locale. Nous encourageons vivement ces entités à avoir recours à un **prestataire** pour la bonne gestion de ce sujet.
+
+Toutefois, le **SI** propose un catalogue de service dont certains outils & services échappent à une gestion locale. Pour facilité le travail du prestataire, le SI mets à disposition un maximum d'information dans la section **`ARCHITECTURE & DOCUMENTATIONS`**.
+
+{% hint style="warning" %}
+Le **prestataire** est l'interlocuteur principale pour ces entités.
+
+Le **SI** peut être sollicité par les **FR** et **FD** pour de l'audit et du conseil; et par le **prestataire** pour de l'accompagnement ou escalade technique.
+{% endhint %}
+
+### Les Unions et Syndicats nationaux
+
+#### Entités hébergées dans les locaux de la FFB
+
+Le **SI** gère l'ensemble des besoins informatique des collaborateurs de ces entités.
+
+{% hint style="success" %}
+Le **SI** est l'interlocuteur unique pour ces entités.
+{% endhint %}
+
+#### Entités à l'extérieurs des locaux de la FFB
+
+Les **U/S** à l'extérieur des locaux de la **FFB** sont autonome au niveau de leur informatique locale. Nous encourageons vivement ces entités à avoir recours à un **prestataire** pour la bonne gestion de ce sujet.
+
+Toutefois, le **SI** propose un catalogue de service dont certains outils & services échappent à une gestion locale. Pour facilité le travail du prestataire, le SI mets à disposition un maximum d'information dans la section **`ARCHITECTURE & DOCUMENTATIONS`**.
+
+{% hint style="warning" %}
+Le **prestataire** est l'interlocuteur principale pour ces entités.
+
+Le **SI** peut être sollicité par les **U/S** pour de l'audit et du conseil; et par le **prestataire** pour de l'accompagnement ou escalade technique.
+{% endhint %}
+
+### Les Chambres Syndicales de la FR Grand-Paris
+
+Les **CS** sont autonome au niveau de leur informatique locale. Nous encourageons vivement ces entités à avoir recours à un **prestataire** pour la bonne gestion de ce sujet.
+
+Toutefois, le **SI** propose un catalogue de service dont certains outils & services échappent à une gestion locale. Pour facilité le travail du prestataire, le SI mets à disposition un maximum d'information dans la section **`ARCHITECTURE & DOCUMENTATIONS`**.
+
+{% hint style="warning" %}
+Le **prestataire** est l'interlocuteur principale pour ces entités.
+
+Le **SI** peut être sollicité par ces entités pour de l'audit et du conseil; et par le **prestataire** pour de l'accompagnement ou escalade technique.
+{% endhint %}
+
+### ESJDB, SI St Paul, e-btp, SEBTP
+
+Ces entités sont autonome au niveau de leur informatique locale mais peuvent bénéficier d'une gestion complète par le **SI**. 
+
+Si ça n'est pas le cas, nous les encourageons vivement à avoir recours à un **prestataire** pour la bonne gestion de ce sujet.
+
+{% hint style="warning" %}
+Le **prestataire** ou le **SI** est l'interlocuteur principale pour ces entités.
+
+Le **SI** peut être sollicité par ces entités pour de l'audit et du conseil; et par le **prestataire** pour de l'accompagnement ou escalade technique.
+{% endhint %}
 
