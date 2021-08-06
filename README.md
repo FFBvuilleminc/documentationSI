@@ -1,6 +1,12 @@
 # Présentation
 
-La FFB Nationale dispose d'un Service Informatique intégré composé de 8 collaborateurs situés dans les locaux rue la Pérouse à Paris.
+La Fédération Française du Bâtiment \(**FFB**\) dispose d'un Service Informatique \(**SI**\) intégré composé de 8 collaborateurs.
+
+Le **SI** propose une panoplie de services aux collaborateurs des entités du réseau FFB tel que défini dans le paragraphe **`Périmètre`** de cette page.
+
+{% hint style="info" %}
+Ces services sont détaillés dans la section**`CATALOGUE DE SERVICES`**.
+{% endhint %}
 
 ## Objectifs
 
@@ -14,17 +20,31 @@ Le Service Informatique Fédération Française du Bâtiment a comme objectifs p
 
 ## Périmètre
 
-Le Service Informatique propose ses services aux collaborateurs permanents des entités membres \(ou proches\) de la FFB.
+### Eligibilité des entités
+
+Le **SI** propose ses services aux collaborateurs permanents des entités membres \(ou proches\) du réseau FFB.
 
 {% hint style="danger" %}
-Il ne fournit donc pas de matériels, d'outils, de services et de prestations aux élus et chefs d'entreprises à l'exception du président de la FFB.
+Il ne fournit donc pas de matériels, d'outils, de services et de prestations aux élus et chefs d'entreprises à l'exception du président de la **FFB**.
 {% endhint %}
 
 La liste exhaustive de ces entités est :
 
-* La Fédération Française du Bâtiment et ses entités fiscalisées
-* Les fédérations régionales \(FR\) et départementales \(FD\)
-* Les unions et syndicats nationaux \(US\)
-* Les chambres syndicales de la FR Grand-Paris \(CS\)
-* L'ESJDB, Le Domaine de St Paul, e-btp, SEBTP
+* La Fédération Française du Bâtiment \(**FFB**\) et ses structures fiscalisées
+* Les fédérations régionales \(**FR**\) et départementales \(**FD**\)
+* Les unions et syndicats nationaux \(**U/S**\)
+* Les chambres syndicales de la FR Grand-Paris \(**CS**\)
+* L'ESJDB, SI St Paul, e-btp, SEBTP
+
+### Type d'accompagnement
+
+S'il est l'interlocuteur unique pour l'ensemble des besoins informatique des collaborateurs de la **FFB**, le SI ne se substitue pas au prestataire des autres entités \(hors locataires de la **FFB**\).
+
+| Entité | Type d'interlocuteur | Type de gestion |
+| :--- | :--- | :--- |
+| **FFB** et ses structures fiscalisées | Interlocuteur unique | Gestion à 100% imposée |
+| **U/S** locataires de la **FFB** | Interlocuteur principale | Gestion à 100% proposée |
+| **U/S** et **CS** non locataires de la **FFB** | Interlocuteur secondaire | Gestion conjointe avec le prestataire |
+| **FD** et **FR** | Interlocuteur secondaire | Gestion conjointe avec le prestataire |
+| ESJDB, SI St Paul, e-btp, SEBTP | Interlocuteur principale | Gestion à 100% proposée |
 
