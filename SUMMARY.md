@@ -2,19 +2,18 @@
 
 * [Présentation](README.md)
 
-## Matériels
+## Catalogue de services
 
-* [Untitled](materiels/untitled.md)
+* [Matériels](catalogue-de-services/materiels.md)
+* [Outils & Services](catalogue-de-services/outils-and-services.md)
+* [Prestations](catalogue-de-services/untitled.md)
 
-## Outils & Services
+## Architecture & Documentations
 
-* [Untitled](outils-and-services/untitled.md)
+* [Installation du VPN Cisco AnyConnect sur PC](architecture-and-documentations/untitled-1.md)
+* [Untitled](architecture-and-documentations/untitled.md)
 
-## Prestations
+## Base de connaissance
 
-* [Untitled](prestations/untitled.md)
-
----
-
-* [Installation du VPN Cisco AnyConnect sur PC](untitled.md)
+* [Untitled](base-de-connaissance/untitled.md)
 
