@@ -1,4 +1,4 @@
-# Matériels
+# Matériel
 
 ## Matériels
 
