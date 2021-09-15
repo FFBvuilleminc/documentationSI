@@ -22,7 +22,7 @@ Ce document a pour but de vous accompagner lors de l’installation du VPN Cisco
 
 ![](../.gitbook/assets/8.jpeg)![](../.gitbook/assets/9.jpeg)
 
-« Ajouter une nouvelle connexion
+### « Ajouter une nouvelle connexion
 
 VPN… »
 
